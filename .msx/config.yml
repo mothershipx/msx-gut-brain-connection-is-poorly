@@ -1,0 +1,7 @@
+# MSX Product Configuration
+product: Gut-brain connection is poorly understood
+slug: gut-brain-connection-is-poorly
+org: mothershipx
+status: pre-mvp
+auto_deploy: true
+subdomain: gut-brain-connection-is-poorly.msx.dev

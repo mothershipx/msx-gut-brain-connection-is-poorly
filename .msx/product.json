@@ -1,0 +1,47 @@
+{
+  "id": "1ae048c8-1667-4552-aa8d-7b8eeb23c377",
+  "name": "Gut-brain connection is poorly understood",
+  "slug": "gut-brain-connection-is-poorly",
+  "category": "saas",
+  "score": 89,
+  "description": "People linking anxiety to digestion want answers",
+  "pain_points": [
+    "Stress causes stomach issues",
+    "Anxiety and digestion linked",
+    "Doctors don't explain connection"
+  ],
+  "market_size": null,
+  "tech_stack": [
+    "node",
+    "express",
+    "react"
+  ],
+  "revenue_model": "Subscription SaaS",
+  "sources": [
+    {
+      "icon": "📱",
+      "value": "2.2M",
+      "change": 83,
+      "metric": "Views",
+      "source": "tiktok"
+    },
+    {
+      "icon": "📈",
+      "value": "98/100",
+      "change": 58,
+      "metric": "Search Interest",
+      "source": "google_trends"
+    },
+    {
+      "icon": "💬",
+      "value": "11025+",
+      "change": 57,
+      "metric": "Mentions",
+      "source": "reddit"
+    }
+  ],
+  "preview_url": "https://mothershipx.github.io/msx-gut-brain-connection-is-poorly/",
+  "repo_url": "https://github.com/mothershipx/msx-gut-brain-connection-is-poorly",
+  "created_at": "2026-04-05T07:03:41.185Z",
+  "pipeline_version": "1.0.0"
+}
